@@ -20,7 +20,7 @@ I’m a Data Engineer passionate about designing modern data solutions that turn
 
 ## 📊 Featured Project
 
-### [SQL Data Warehouse Project](https://github.com/YOUR_GITHUB_USERNAME/sql-data-warehouse-project)
+### [SQL Data Warehouse Project](https://github.com/Selalelo/SQL-DATA-WAREHOUSE)
 
 In this data warehouse portfolio project, I:  
 - Designed a layered data warehouse architecture (Bronze, Silver, Gold)  
@@ -29,7 +29,7 @@ In this data warehouse portfolio project, I:
 - Automated data loading with stored procedures  
 - Documented a naming convention and data catalog to support best practices  
 
-👉 [Explore the full repository here](https://github.com/YOUR_GITHUB_USERNAME/sql-data-warehouse-project)
+👉 [Explore the full repository here](https://github.com/Selalelo/SQL-DATA-WAREHOUSE)
 
 ---
 
