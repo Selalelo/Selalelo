@@ -37,7 +37,7 @@ In this data warehouse portfolio project, I:
 
 In this real-time data analytics project, I:
 
-- Developed a modular **data pipeline** to fetch, store, transform, and visualize live weather data.
+- Developed a modular **data pipeline** to fetch data from a live api, store, transform, and visualize live weather data.
 - Designed a **layered PostgreSQL schema** (`dev`) including staging, dimensional, and aggregated models.
 - Used **Streamlit** and **Plotly** to build a live, interactive dashboard with daily and hourly weather trends.
 - Built **dbt models** for data transformation, including staging, fact, and dimension tables.
