@@ -1,4 +1,4 @@
-# 🚀 Selalelo Moakamelo — AI Engineer
+#  Selalelo Moakamelo — AI Engineer
 
 AI Engineer focused on building **production-grade AI systems** using LLMs, Retrieval-Augmented Generation (RAG), and real-time data pipelines.
 
@@ -6,7 +6,7 @@ I design and deploy applications that go beyond basic chatbots — integrating *
 
 ---
 
-## 🧠 What I Do
+##  What I Do
 
 * Build **LLM-powered applications** with tool-calling and RAG
 * Design **AI + data systems** (structured + unstructured data)
@@ -16,9 +16,9 @@ I design and deploy applications that go beyond basic chatbots — integrating *
 
 ---
 
-## 🔥 Featured Projects
+##  Featured Projects
 
-### 🟡 PriceWatch ZAR — AI Financial Monitoring System
+###  PriceWatch ZAR — AI Financial Monitoring System
 
 Production-grade AI system for tracking gold and oil prices in ZAR with portfolio tracking and alerts.
 
@@ -30,11 +30,11 @@ Production-grade AI system for tracking gold and oil prices in ZAR with portfoli
 * AI assistant grounded in live database queries
 * CI/CD with automated deployments
 
-👉 https://github.com/Selalelo/pricewatch-ai-finance-system
+ https://github.com/Selalelo/pricewatch-ai-finance-system
 
 ---
 
-### 🏥 SPLA031 AI Tutor — RAG-Based Education System
+### SPLA031 AI Tutor — RAG-Based Education System
 
 Domain-specific AI tutor for physiology students using semantic search and grounded responses.
 
@@ -46,11 +46,11 @@ Domain-specific AI tutor for physiology students using semantic search and groun
 * Citation-based answers to reduce hallucination
 * Student usage analytics for lecturers
 
-👉 https://github.com/Selalelo/rag-physiology-ai-tutor
+https://github.com/Selalelo/rag-physiology-ai-tutor
 
 ---
 
-## 🧠 AI Engineering Skills
+## AI Engineering Skills
 
 **LLM Systems**
 
@@ -86,7 +86,7 @@ Domain-specific AI tutor for physiology students using semantic search and groun
 
 ---
 
-## 🏗️ Systems I’ve Built
+##  Systems I’ve Built
 
 * AI financial monitoring platform (real-time + LLM integration)
 * RAG-based tutoring system (education domain)
@@ -95,7 +95,7 @@ Domain-specific AI tutor for physiology students using semantic search and groun
 
 ---
 
-## 🎯 Current Focus
+##  Current Focus
 
 * Advanced RAG systems (hybrid search, re-ranking)
 * AI system evaluation & observability
@@ -104,7 +104,7 @@ Domain-specific AI tutor for physiology students using semantic search and groun
 
 ---
 
-## 🌍 Open To Opportunities
+## Open To Opportunities
 
 Actively seeking:
 
@@ -135,4 +135,4 @@ Every project is designed with:
 
 ---
 
-⭐ If you're working on AI systems or hiring — feel free to connect.
+If you're working on AI systems or hiring — feel free to connect.
