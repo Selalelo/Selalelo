@@ -30,7 +30,7 @@ Production-grade AI system for tracking gold and oil prices in ZAR with portfoli
 * AI assistant grounded in live database queries
 * CI/CD with automated deployments
 
- https://github.com/Selalelo/pricewatch-ai-finance-system
+ https://github.com/Selalelo/PriceWatch
 
 ---
 
@@ -46,7 +46,7 @@ Domain-specific AI tutor for physiology students using semantic search and groun
 * Citation-based answers to reduce hallucination
 * Student usage analytics for lecturers
 
-https://github.com/Selalelo/rag-physiology-ai-tutor
+https://github.com/Selalelo/[rag-physiology-ai-tutor](https://github.com/Selalelo/SRH-TUTOR)
 
 ---
 
