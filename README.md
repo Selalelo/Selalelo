@@ -1,4 +1,4 @@
-#  Selalelo Moakamelo — AI Engineer
+#  Selalelo Moakamelo: AI Engineer
 
 AI Engineer focused on building **production-grade AI systems** using LLMs, Retrieval-Augmented Generation (RAG), and real-time data pipelines.
 
