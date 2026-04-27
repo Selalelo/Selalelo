@@ -18,7 +18,7 @@ I design and deploy applications that go beyond basic chatbots, integrating **li
 
 ##  Featured Projects
 
-###  PriceWatch ZAR — AI Financial Monitoring System
+###  PriceWatch ZAR: AI Financial Monitoring System
 
 Production-grade AI system for tracking gold and oil prices in ZAR with portfolio tracking and alerts.
 
@@ -34,7 +34,7 @@ Production-grade AI system for tracking gold and oil prices in ZAR with portfoli
 
 ---
 
-### SPLA031 AI Tutor — RAG-Based Education System
+### SPLA031 AI Tutor: RAG-Based Education System
 
 Domain-specific AI tutor for physiology students using semantic search and grounded responses.
 
