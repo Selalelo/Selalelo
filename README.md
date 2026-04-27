@@ -2,7 +2,7 @@
 
 AI Engineer focused on building **production-grade AI systems** using LLMs, Retrieval-Augmented Generation (RAG), and real-time data pipelines.
 
-I design and deploy applications that go beyond basic chatbots — integrating **live data, vector search, and backend systems** to solve real-world problems.
+I design and deploy applications that go beyond basic chatbots, integrating **live data, vector search, and backend systems** to solve real-world problems.
 
 ---
 
