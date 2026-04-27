@@ -119,7 +119,7 @@ Actively seeking:
 ## Contact
 
 * LinkedIn: https://www.linkedin.com/in/selalelo-moakamelo-35b57719a
-* Email: [your.email@example.com](mailto:lolomoakamela@gmail.com)
+* Email: [Email](mailto:lolomoakamela@gmail.com)
 
 ---
 
