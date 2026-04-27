@@ -1,60 +1,138 @@
-# 👋 Hi there, I’m Selalelo Moakamelo!
+# 🚀 Selalelo Moakamelo — AI Engineer
 
-I’m a Data Engineer passionate about designing modern data solutions that turn raw data into valuable business insights. This **SQL Data Warehouse Project** demonstrates my ability to build an end-to-end data warehouse following best practices — from ingesting and cleansing data, to modeling a star-schema, and preparing data for analytics.
+AI Engineer focused on building **production-grade AI systems** using LLMs, Retrieval-Augmented Generation (RAG), and real-time data pipelines.
 
----
-
-## 🚀 My Skillset
-
-✅ **SQL & Data Warehousing** – advanced SQL, data modeling, ETL, dimensional modeling  
-✅ **Python** – scripting, automation, data pipelines  
-✅ **Docker** – containerizing data workloads  
-✅ **Kubernetes** – orchestrating containerized data services  
-✅ **Linux** – strong command line and systems knowledge  
-✅ **Cloud Concepts** – familiarity with AWS (EC2, S3, Lambda) and GCP VM setups  
-✅ **Version Control** – Git & GitHub for team collaboration  
-✅ **CI/CD Fundamentals** – Jenkins pipelines, container-based deployments  
-✅ **Monitoring & Troubleshooting** – experience building system reporting tools  
+I design and deploy applications that go beyond basic chatbots — integrating **live data, vector search, and backend systems** to solve real-world problems.
 
 ---
 
-## 📊 Featured Projects
+## 🧠 What I Do
 
-### [SQL Data Warehouse Project](https://github.com/Selalelo/SQL-DATA-WAREHOUSE)
-
-In this data warehouse portfolio project, I:  
-- Designed a layered data warehouse architecture (Bronze, Silver, Gold)  
-- Developed robust data quality and cleansing processes  
-- Built a dimensional star-schema model using views  
-- Automated data loading with stored procedures  
-- Documented a naming convention and data catalog to support best practices  
-
-> This project demonstrates skills in data modeling, ETL pipeline development, and data warehouse architecture.
-👉 [Explore the full repository here](https://github.com/Selalelo/SQL-DATA-WAREHOUSE)
-
----
-### [Weather Data Analytics Pipeline](https://github.com/Selalelo/AUTOMATED_DATA_PIPELINE)
-
-In this real-time data analytics project, I:
-
-- Developed a modular **data pipeline** to fetch data from a live api, store, transform, and visualize live weather data.
-- Designed a **layered PostgreSQL schema** (`dev`) including staging, dimensional, and aggregated models.
-- Used **Streamlit** and **Plotly** to build a live, interactive dashboard with daily and hourly weather trends.
-- Built **dbt models** for data transformation, including staging, fact, and dimension tables.
-- Secured database connections using **Streamlit secrets management** (`.streamlit/secrets.toml`) and disabled override controls in production.
-- Set up **GitHub Actions** for CI to automate dbt runs, data ingestion, and dashboard updates.
-- Followed and documented **strict naming conventions** and created a **data catalogue** to ensure clarity, scalability, and maintainability.
-
-> This project demonstrates skills in data engineering, analytics engineering, dashboard development, and cloud-native pipeline deployment.
-👉 [Explore the full repository here](https://github.com/Selalelo/AUTOMATED_DATA_PIPELINE)
----
-
-## 🤝 Let’s Connect!
-
-- [LinkedIn](https://www.linkedin.com/in/selalelo-moakamelo-35b57719a)  
-
+* Build **LLM-powered applications** with tool-calling and RAG
+* Design **AI + data systems** (structured + unstructured data)
+* Develop **FastAPI backends** with authentication and APIs
+* Implement **data pipelines** (ELT, cron jobs, ingestion workflows)
+* Deploy production systems using **CI/CD and cloud platforms**
 
 ---
 
-🚀 *Thanks for stopping by! Feel free to explore my work, connect, and reach out if you’d like to collaborate or learn more together.*  
+## 🔥 Featured Projects
 
+### 🟡 PriceWatch ZAR — AI Financial Monitoring System
+
+Production-grade AI system for tracking gold and oil prices in ZAR with portfolio tracking and alerts.
+
+**Key Highlights:**
+
+* LLM tool-calling system (MCP pattern)
+* Real-time commodity + FX data pipeline
+* Portfolio tracking with live P&L
+* AI assistant grounded in live database queries
+* CI/CD with automated deployments
+
+👉 https://github.com/Selalelo/pricewatch-ai-finance-system
+
+---
+
+### 🏥 SPLA031 AI Tutor — RAG-Based Education System
+
+Domain-specific AI tutor for physiology students using semantic search and grounded responses.
+
+**Key Highlights:**
+
+* Retrieval-Augmented Generation (RAG)
+* Vector search with Qdrant
+* PDF ingestion pipeline (lecture notes, textbooks)
+* Citation-based answers to reduce hallucination
+* Student usage analytics for lecturers
+
+👉 https://github.com/Selalelo/rag-physiology-ai-tutor
+
+---
+
+## 🧠 AI Engineering Skills
+
+**LLM Systems**
+
+* Tool-calling (MCP pattern)
+* Prompt design & context injection
+* Multi-step reasoning workflows
+
+**RAG (Retrieval-Augmented Generation)**
+
+* Embeddings (ONNX / MiniLM)
+* Vector databases
+* Semantic search & document retrieval
+
+**Backend & APIs**
+
+* FastAPI
+* REST API design
+* Authentication (JWT, Supabase Auth)
+
+**Data Engineering**
+
+* ELT pipelines
+* Scheduled ingestion (cron jobs)
+* Time-series data handling
+* PostgreSQL (Supabase)
+
+**Cloud & DevOps**
+
+* CI/CD (GitHub Actions)
+* Docker
+* Render deployment
+* Environment configuration
+
+---
+
+## 🏗️ Systems I’ve Built
+
+* AI financial monitoring platform (real-time + LLM integration)
+* RAG-based tutoring system (education domain)
+* End-to-end data pipelines (API → DB → AI system)
+* Authenticated multi-user AI applications
+
+---
+
+## 🎯 Current Focus
+
+* Advanced RAG systems (hybrid search, re-ranking)
+* AI system evaluation & observability
+* Scalable LLM architectures
+* Production-ready AI applications
+
+---
+
+## 🌍 Open To Opportunities
+
+Actively seeking:
+
+* AI Engineer roles
+* LLM / GenAI Engineer roles
+* Backend Engineer (AI-focused) roles
+
+📍 South Africa & Remote
+
+---
+
+## Contact
+
+* LinkedIn: https://www.linkedin.com/in/selalelo-moakamelo-35b57719a
+* Email: [your.email@example.com](mailto:lolomoakamela@gmail.com)
+
+---
+
+## Philosophy
+
+I focus on building **real AI systems** — not demos.
+
+Every project is designed with:
+
+* Production architecture
+* Real data integration
+* Scalability in mind
+
+---
+
+⭐ If you're working on AI systems or hiring — feel free to connect.
