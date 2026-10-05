@@ -1,138 +1,111 @@
-#  Selalelo Moakamelo: AI Engineer
+# Selalelo Moakamelo: Software Engineer
 
-AI Engineer focused on building **production-grade AI systems** using LLMs, Retrieval-Augmented Generation (RAG), and real-time data pipelines.
+Software engineer building **reliable, well-tested backend systems** with Java and Spring Boot, deployed on AWS and delivered through automated DevOps pipelines.
 
-I design and deploy applications that go beyond basic chatbots, integrating **live data, vector search, and backend systems** to solve real-world problems.
-
----
-
-##  What I Do
-
-* Build **LLM-powered applications** with tool-calling and RAG
-* Design **AI + data systems** (structured + unstructured data)
-* Develop **FastAPI backends** with authentication and APIs
-* Implement **data pipelines** (ELT, cron jobs, ingestion workflows)
-* Deploy production systems using **CI/CD and cloud platforms**
+I also build AI-powered applications, including tool-calling language model systems and retrieval-augmented generation, on top of solid backend foundations.
 
 ---
 
-##  Featured Projects
+## What I Do
 
-###  PriceWatch ZAR: AI Financial Monitoring System
+* Build **backend services and REST APIs** with Java and Spring Boot
+* Deploy and run applications on **AWS**
+* Write **automated tests** to keep software dependable as it changes
+* Set up **DevOps pipelines** for continuous integration and continuous delivery
+* Integrate **language models, vector search, and live data** into real applications
 
-Production-grade AI system for tracking gold and oil prices in ZAR with portfolio tracking and alerts.
+---
+
+## Core Skills
+
+**Java**
+
+* Object-oriented design
+* Collections, streams, and exception handling
+* Clean, maintainable code
+
+**Spring Boot**
+
+* REST API design
+* Dependency injection and configuration
+* Authentication with JSON Web Tokens
+* Database access with PostgreSQL
+
+**AWS**
+
+* Cloud fundamentals and core services
+* Environment configuration and secure deployment
+* Serverless functions and managed databases
+
+**Testing**
+
+* Unit testing and integration testing
+* Test automation
+* Writing tests that catch regressions early
+
+**DevOps**
+
+* Continuous integration and continuous delivery with GitHub Actions
+* Docker containers
+* Automated deployments
+* Environment management
+
+---
+
+## Featured Projects
+
+### PriceWatch ZAR: Financial Monitoring System
+
+Production-grade system for tracking gold and oil prices in South African rand, with portfolio tracking and alerts.
 
 **Key Highlights:**
 
-* LLM tool-calling system (MCP pattern)
-* Real-time commodity + FX data pipeline
-* Portfolio tracking with live P&L
-* AI assistant grounded in live database queries
-* CI/CD with automated deployments
+* Real-time commodity and currency data pipeline
+* Portfolio tracking with live profit and loss
+* Assistant grounded in live database queries
+* Continuous integration and automated deployments
 
- https://github.com/Selalelo/PriceWatch
+https://github.com/Selalelo/PriceWatch
 
 ---
 
-### SPLA031 AI Tutor: RAG-Based Education System
+### SPLA031 Tutor: Retrieval-Augmented Education System
 
-Domain-specific AI tutor for physiology students using semantic search and grounded responses.
+Domain-specific tutor for physiology students using semantic search and grounded responses.
 
 **Key Highlights:**
 
-* Retrieval-Augmented Generation (RAG)
 * Vector search with Qdrant
-* PDF ingestion pipeline (lecture notes, textbooks)
-* Citation-based answers to reduce hallucination
+* Document ingestion pipeline for lecture notes and textbooks
+* Citation-based answers to reduce incorrect responses
 * Student usage analytics for lecturers
 
 https://github.com/Selalelo/SRH-TUTOR
 
 ---
 
-## AI Engineering Skills
+## Also Experienced With
 
-**LLM Systems**
-
-* Tool-calling (MCP pattern)
-* Prompt design & context injection
-* Multi-step reasoning workflows
-
-**RAG (Retrieval-Augmented Generation)**
-
-* Embeddings (ONNX / MiniLM)
-* Vector databases
-* Semantic search & document retrieval
-
-**Backend & APIs**
-
-* FastAPI
-* REST API design
-* Authentication (JWT, Supabase Auth)
-
-**Data Engineering**
-
-* ELT pipelines
-* Scheduled ingestion (cron jobs)
-* Time-series data handling
-* PostgreSQL (Supabase)
-
-**Cloud & DevOps**
-
-* CI/CD (GitHub Actions)
-* Docker
-* Render deployment
-* Environment configuration
+* FastAPI and Python
+* Retrieval-augmented generation and vector databases
+* Data pipelines and scheduled ingestion
+* PostgreSQL and Supabase
 
 ---
 
-##  Systems I’ve Built
+## Philosophy
 
-* AI financial monitoring platform (real-time + LLM integration)
-* RAG-based tutoring system (education domain)
-* End-to-end data pipelines (API → DB → AI system)
-* Authenticated multi-user AI applications
+I focus on building **real systems, not demos**.
 
----
+Every project is designed with:
 
-##  Current Focus
-
-* Advanced RAG systems (hybrid search, re-ranking)
-* AI system evaluation & observability
-* Scalable LLM architectures
-* Production-ready AI applications
-
----
-
-## Open To Opportunities
-
-Actively seeking:
-
-* AI Engineer roles
-* LLM / GenAI Engineer roles
-* Backend Engineer (AI-focused) roles
-
-📍 South Africa & Remote
+* Production architecture
+* Automated testing
+* Repeatable, automated deployment
 
 ---
 
 ## Contact
 
 * LinkedIn: https://www.linkedin.com/in/selalelo-moakamelo-35b57719a
-* Email: [Emai: lolomoakamela@gmial.coml](mailto:lolomoakamela@gmail.com)
-
----
-
-## Philosophy
-
-I focus on building **real AI systems** — not demos.
-
-Every project is designed with:
-
-* Production architecture
-* Real data integration
-* Scalability in mind
-
----
-
-If you're working on AI systems or hiring — feel free to connect.
+* Email: [lolomoakamela@gmail.com](mailto:lolomoakamela@gmail.com)
